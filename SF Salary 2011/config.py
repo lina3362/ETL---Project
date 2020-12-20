@@ -1,6 +1,6 @@
 username = "postgres"
 
-password = "Kelion3362!"
+password = "Password"
 
 database = "SF Salary 2011" 
 
